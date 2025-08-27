@@ -17,10 +17,10 @@ of -0.05 ns and -0.23 ns for the paths and proposed solutions to solve the viola
 I contributed by implementing Sythesis and Floorplan stage.
 
 <p align="center">
-  <img src="Introduction-1.png" alt="Project Screenshot" width="600"/>
+  <img src="Introduction-1.png" alt="Project Screenshot" width="800"/>
 </p>
 <p align="center">
-  <img src="Introduction-2.png" alt="Project Screenshot" width="600"/>
+  <img src="Introduction-2.png" alt="Project Screenshot" width="800"/>
 </p>
 
 
