@@ -17,3 +17,5 @@ of -0.05 ns and -0.23 ns for the paths and proposed solutions to solve the viola
 I contributed by implementing Sythesis and Floorplan stage.
 
 ![Project Screenshot](Screenshot 2025-08-26 000438.png)
+![Project Screenshot](Screenshot 2025-08-26 000438.png)
+
