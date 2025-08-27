@@ -15,3 +15,9 @@ of -0.05 ns and -0.23 ns for the paths and proposed solutions to solve the viola
 8) After the routing stage, number of shorts = 20 and number of opens = 2.
 
 I contributed by implementing Sythesis and Floorplan stage.
+
+<p align="center">
+  <img src="assets/Introduction-1.png" alt="Project Screenshot" width="600"/>
+  <img src="assets/Introduction-2.png" alt="Project Screenshot" width="600"/>
+</p>
+
